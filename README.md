@@ -1,2 +1,2 @@
 # Random-Stuffs
-Just random codes written without any purpose, reminds me of my life.
+Just random codes written without any purpose, Just like our life!
