@@ -1,2 +1,2 @@
 # Random-Stuffs
-Just random codes written without any purpose, Just like our life!
+Just a random bunch of codes written without any purpose, Just like our life!
