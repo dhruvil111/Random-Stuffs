@@ -1,2 +1,2 @@
 # Random-Stuffs
-Just random and non inter-related codes written without any purpose
+Just random codes written without any purpose, reminds me of my life.
